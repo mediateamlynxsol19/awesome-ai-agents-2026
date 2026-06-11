@@ -25,6 +25,14 @@
 
 ---
 
+# NeuroNest AI-Powered Software Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI-powered software assistant designed to help developers manage coding, testing, debugging, and project improvement with better efficiency. It supports AI-based development workflows, security review, DevOps automation, and technical research, making it a reliable tool for teams that want to build smarter and faster.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Contents
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
