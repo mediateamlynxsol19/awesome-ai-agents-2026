@@ -26,7 +26,7 @@
 ---
 
 # NeuroNest AI-Powered Software Assistant
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI-powered software assistant designed to help developers manage coding, testing, debugging, and project improvement with better efficiency. It supports AI-based development workflows, security review, DevOps automation, and technical research, making it a reliable tool for teams that want to build smarter and faster.
 
